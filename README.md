@@ -1,7 +1,7 @@
 # oishisaha
 # Hi, I'm Oishi Saha
 
-Data Science Student at UTS
+I am currently studying Bachelor of Engineering- Major in Data Science at UTS
 
 ## Skills
 - Python
